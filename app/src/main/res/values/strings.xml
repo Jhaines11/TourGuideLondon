@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">London Tour Guide</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_monuments">Monuments</string>
+    <string name="category_museums">Museums</string>
+    <string name="category_sights">Sights</string>
+    <string name="name_hydepark">Hydepark</string>
+    <string name="description_hydepark">One of the largest parks in London and also one of the most popular, Hyde Park is located in the Kensington area of London.</string>
+    <string name="name_regentspark">Regentspark</string>
+    <string name="description_regentspark">With an outer ring called the Outer Cirlce of 4.45km, Regents Park is a popular park located partly in the City of Westminster and partly in the London Borough of Camden.</string>
+    <string name="name_towerbridge">Tower Bridge</string>
+    <string name="description_towerbridge">Tower Bridge is a combined bascule and suspension bridge in London built in 1886–1894. The bridge crosses the River Thames close to the Tower of London and has become an iconic symbol of London..</string>
+    <string name="name_londoneye">London Eye</string>
+    <string name="description_londoneye">The London Eye is a giant Ferris wheel on the South Bank of the River Thames in London. The structure is 443 feet (135 m) tall and the wheel has a diameter of 394 feet (120 m). When erected in 1999 it was the world\'s tallest Ferris wheel.</string>
+    <string name="name_bigben">Big Ben</string>
+    <string name="description_bigben">Big Ben is the nickname for the Great Bell of the clock at the north end of the Palace of Westminster in London. The tower is officially known as Elizabeth Tower, renamed to celebrate the Diamond Jubilee of Elizabeth II in 2012; previously it was known simply as the Clock Tower.</string>
+    <string name="name_buckinghampalace">Buckhingham Palace</string>
+    <string name="description_buckinghampalace">Buckingham Palace is the London residence and administrative headquarters of the reigning monarch of the United Kingdom.</string>
+    <string name="name_imperialwarmuseum">Imperial War Museum</string>
+    <string name="description_imperialwarmuseum">Imperial War Museum London tells the stories of people\'s experiences of modern war from the First World War to conflicts today.</string>
+    <string name="name_naturalhistorymuseum">Natural History Museum</string>
+    <string name="description_naturalhistorymuseum">The Natural History Museum in London is a museum of natural history that exhibits a vast range of specimens from various segments of natural history.</string>
+</resources>
